@@ -8,6 +8,12 @@ I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
 **Download the dataset from [here](https://github.com/Anuragtsl/ML-Diamonds_Prediction_Random_Forest_And_Boosting_Regression/blob/main/diamonds.csv)!**
 
+# Models Created
+
+* **[Random Forest Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.RandomForestRegressor.html)**
+* **[AdaBoost Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.AdaBoostRegressor.html)**
+* **[GradientBoosting Regressor](https://scikit-learn.org/stable/modules/generated/sklearn.ensemble.GradientBoostingRegressor.html)**
+
 # Table of Contents
 
 * ***Exploring Dataset***
