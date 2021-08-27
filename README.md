@@ -19,11 +19,12 @@ Download the dataset from [here](https://github.com/Anuragtsl/ML-Diamonds_Predic
 * ***Modelling Algorithms***
 * ***Comparing R2 Scores***
 
-***Follow [notebook](https://github.com/Anuragtsl/ML-Diamonds_Prediction_Random_Forest_And_Boosting_Regression/blob/main/Diamonds%20Prediction%20Random%20Forest%20And%20Boosting%20Regression.ipynb) for more!!***
 
 **Features of Diamonds**
 
 ![Image0](https://github.com/Anuragtsl/ML-Diamonds_Prediction_Random_Forest_And_Boosting_Regression/blob/main/Images/0.png)
+
+***Follow [notebook](https://github.com/Anuragtsl/ML-Diamonds_Prediction_Random_Forest_And_Boosting_Regression/blob/main/Diamonds%20Prediction%20Random%20Forest%20And%20Boosting%20Regression.ipynb) for more!!***
 
 # Preview
 
