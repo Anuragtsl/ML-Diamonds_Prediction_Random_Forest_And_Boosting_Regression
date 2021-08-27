@@ -6,7 +6,7 @@ In this I've used Python’s Famous libraries like [Numpy](https://numpy.org/), 
 
 I've used [Jupyter Notebook](https://jupyter.org/) for coding!
 
-Download the dataset from [here](https://github.com/Anuragtsl/ML-Diamonds_Prediction_Random_Forest_And_Boosting_Regression/blob/main/diamonds.csv)!
+**Download the dataset from [here](https://github.com/Anuragtsl/ML-Diamonds_Prediction_Random_Forest_And_Boosting_Regression/blob/main/diamonds.csv)!**
 
 # Table of Contents
 
