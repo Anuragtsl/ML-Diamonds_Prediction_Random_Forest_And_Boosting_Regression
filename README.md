@@ -23,16 +23,16 @@ Download the dataset from [here](https://github.com/Anuragtsl/ML-Diamonds_Predic
 
 **Features of Diamonds**
 
-![Image0]()
+![Image0](https://github.com/Anuragtsl/ML-Diamonds_Prediction_Random_Forest_And_Boosting_Regression/blob/main/Images/0.png)
 
 # Preview
 
-![Image1]()
+![Image1](https://github.com/Anuragtsl/ML-Diamonds_Prediction_Random_Forest_And_Boosting_Regression/blob/main/Images/1.png)
 
-![Image2]()
+![Image2](https://github.com/Anuragtsl/ML-Diamonds_Prediction_Random_Forest_And_Boosting_Regression/blob/main/Images/2.png)
 
-![Image3]()
+![Image3](https://github.com/Anuragtsl/ML-Diamonds_Prediction_Random_Forest_And_Boosting_Regression/blob/main/Images/3.png)
 
-![Image4]()
+![Image4](https://github.com/Anuragtsl/ML-Diamonds_Prediction_Random_Forest_And_Boosting_Regression/blob/main/Images/4.png)
 
 #Njoy!
